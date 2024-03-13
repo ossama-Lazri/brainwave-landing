@@ -62,47 +62,6 @@ img, button {
 .bg-header {
 	background: linear-gradient(180deg, rgba(240, 242, 245, 0.00) 0.02%, #F0F2F5 220.8%);
 }
-  
-.bg-cta {
-	background: linear-gradient(90deg, #CC522B 0%, #FF6636 100%);
-}
-
-.gradient {
-	background: var(--personal-gradiant-gradiant-2, linear-gradient(90deg, #F8FAFF 0%, #EEF4FF 44.4%, #FFECEC 100%)); 
-}
-
-.gradient2 {
-	background: var(--personal-gradiant-grediant-1, linear-gradient(80deg, #F8D9D8 0.47%, #F5F6F7 22.95%, #F5F6F7 47.97%, #F5F6F7 73.13%, #F3DFED 100.83%)); 
-}
-
-.project1 {
-	background: var(--personal-gradiant-gradiant-3, linear-gradient(75deg, #E7F3F2 0%, #EBF4F8 52.07%, #DFEEF9 102.02%)); 
-}
-
-.project2 {
-	background: var(--personal-gradiant-gradiant-4, linear-gradient(75deg, #F5E9F1 0%, #EBF4F8 52.07%, #F7E3E2 102.02%)); 
-}
-
-.project3 {
-	background: var(--personal-gradiant-gradiant-5, linear-gradient(75deg, #F4E8F3 0%, #F3EFF6 52.07%, #EEE0F9 102.02%)); 
-}
-
-.btn {
-	background: var(--personal-gradiant-gradiant-4, linear-gradient(75deg, #F5E9F1 0%, #EBF4F8 52.07%, #F7E3E2 102.02%)); 
-}
-
-.bg-shayna-hero {
-	background-image: url('./assets/shaynaHero.jpeg');
-}  
-
-.bg-9hwi {
-	background: linear-gradient(293deg, #E6E6E4 7.23%, #F0E8E2 97.74%); 
-}
-
-@font-face {
-	font-family: TerminaBold;
-	src: url('./fonts/TerminaBold.otf') format('opentype');
-}
 
 /* Work Sans Fonts */
 
